@@ -1,7 +1,7 @@
-import './globals.css'
+import '../globals.css'
 
 export const metadata = {
-  title: 'Home',
+  title: 'About me',
 }
 
 export default function RootLayout({
