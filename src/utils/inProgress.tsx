@@ -1,5 +1,5 @@
 import { FaArrowLeft } from 'react-icons/fa'
-import Link  from 'next/link';
+import Link  from 'next/link'
 
 function InDevelopment() {
   return (
